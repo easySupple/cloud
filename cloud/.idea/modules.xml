@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cloud.iml" filepath="$PROJECT_DIR$/cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-com/microservice-com.iml" filepath="$PROJECT_DIR$/microservice-com/microservice-com.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-consumer/microservice-consumer.iml" filepath="$PROJECT_DIR$/microservice-consumer/microservice-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-consumer-feign/microservice-consumer-feign.iml" filepath="$PROJECT_DIR$/microservice-consumer-feign/microservice-consumer-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-consumer-feign-hystrix/microservice-consumer-feign-hystrix.iml" filepath="$PROJECT_DIR$/microservice-consumer-feign-hystrix/microservice-consumer-feign-hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-consumer-hystrix-dashbord/microservice-consumer-hystrix-dashbord.iml" filepath="$PROJECT_DIR$/microservice-consumer-hystrix-dashbord/microservice-consumer-hystrix-dashbord.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-eurake1/microservice-eurake1.iml" filepath="$PROJECT_DIR$/microservice-eurake1/microservice-eurake1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-eurake2/microservice-eurake2.iml" filepath="$PROJECT_DIR$/microservice-eurake2/microservice-eurake2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-eurake3/microservice-eurake3.iml" filepath="$PROJECT_DIR$/microservice-eurake3/microservice-eurake3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-provider/microservice-provider.iml" filepath="$PROJECT_DIR$/microservice-provider/microservice-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-provider-hystrix/microservice-provider-hystrix.iml" filepath="$PROJECT_DIR$/microservice-provider-hystrix/microservice-provider-hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-zull/microservice-zull.iml" filepath="$PROJECT_DIR$/microservice-zull/microservice-zull.iml" />
+    </modules>
+  </component>
+</project>

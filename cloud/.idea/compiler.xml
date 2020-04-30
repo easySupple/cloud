@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="microservice-com" />
+        <module name="microservice-consumer" />
+        <module name="microservice-consumer-feign" />
+        <module name="microservice-consumer-feign-hystrix" />
+        <module name="microservice-consumer-hystrix-dashbord" />
+        <module name="microservice-eurake1" />
+        <module name="microservice-eurake2" />
+        <module name="microservice-eurake3" />
+        <module name="microservice-provider" />
+        <module name="microservice-provider-hystrix" />
+        <module name="microservice-zull" />
+        <module name="microservicecom" />
+        <module name="microserviceprovider" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cloud" target="1.7" />
+      <module name="microservice-com" target="1.7" />
+      <module name="microservice-consumer" target="1.7" />
+      <module name="microservice-consumer-feign" target="1.7" />
+      <module name="microservice-consumer-feign-hystrix" target="1.7" />
+      <module name="microservice-consumer-hystrix-dashbord" target="1.7" />
+      <module name="microservice-eurake1" target="1.7" />
+      <module name="microservice-eurake2" target="1.7" />
+      <module name="microservice-eurake3" target="1.7" />
+      <module name="microservice-provider" target="1.7" />
+      <module name="microservice-provider (1)" target="1.7" />
+      <module name="microservice-provider (2)" target="1.7" />
+      <module name="microservice-provider-hystrix" target="1.7" />
+      <module name="microservice-zull" target="1.7" />
+      <module name="microservicecom" target="1.7" />
+      <module name="microserviceprovider" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
